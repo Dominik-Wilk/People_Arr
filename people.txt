@@ -1,0 +1,142 @@
+[
+  {
+    "gender": "female",
+    "firstName": "Kasia",
+    "lastName": "Stepien",
+    "age": 74,
+    "mail": "Kasia.Stepien@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Tomek",
+    "lastName": "Stepien",
+    "age": 39,
+    "mail": "Tomek.Stepien@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Rafal",
+    "lastName": "Smith",
+    "age": 26,
+    "mail": "Rafal.Smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jola",
+    "lastName": "Doe",
+    "age": 50,
+    "mail": "Jola.Doe@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Nel",
+    "lastName": "Hoak",
+    "age": 26,
+    "mail": "Nel.Hoak@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Monika",
+    "lastName": "Croack",
+    "age": 50,
+    "mail": "Monika.Croack@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Monika",
+    "lastName": "Jaskot",
+    "age": 34,
+    "mail": "Monika.Jaskot@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Staszek",
+    "lastName": "Wilk",
+    "age": 53,
+    "mail": "Staszek.Wilk@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Staszek",
+    "lastName": "Hoak",
+    "age": 19,
+    "mail": "Staszek.Hoak@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Rafal",
+    "lastName": "Smith",
+    "age": 72,
+    "mail": "Rafal.Smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Nel",
+    "lastName": "Croack",
+    "age": 46,
+    "mail": "Nel.Croack@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Rafal",
+    "lastName": "Doe",
+    "age": 75,
+    "mail": "Rafal.Doe@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Marcin",
+    "lastName": "Jaskot",
+    "age": 39,
+    "mail": "Marcin.Jaskot@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Nel",
+    "lastName": "Wood",
+    "age": 64,
+    "mail": "Nel.Wood@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Rafal",
+    "lastName": "Kowalski",
+    "age": 65,
+    "mail": "Rafal.Kowalski@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jola",
+    "lastName": "Zieba",
+    "age": 39,
+    "mail": "Jola.Zieba@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Tymon",
+    "lastName": "Zieba",
+    "age": 76,
+    "mail": "Tymon.Zieba@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Monika",
+    "lastName": "Wood",
+    "age": 72,
+    "mail": "Monika.Wood@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Dominik",
+    "lastName": "Wood",
+    "age": 77,
+    "mail": "Dominik.Wood@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Adrian",
+    "lastName": "Hoak",
+    "age": 77,
+    "mail": "Adrian.Hoak@gmail.com"
+  }
+]
